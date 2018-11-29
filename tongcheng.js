@@ -96,7 +96,7 @@
       addClass(getByClass("bottom_btn")[i],'btn_color');
     }
   }
-  window.onscroll = function () {
+/*  window.onscroll = function () {
      var top = document.documentElement.scrollTop || document.body.scrollTop;
      // console.log(top)
      if (top>=370) {
@@ -104,5 +104,5 @@
       ul1[0].appendChild(list);
       list.innerHTML = li[0].innerHTML;
      }
-  }
+  }*/
  
